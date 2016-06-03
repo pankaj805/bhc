@@ -148,7 +148,7 @@ header  .navbar-nav > li > a {
 
 
 .dropdown-menu li a:hover {
-    color: #fff !important;
+    color: #eee !important;
 }
 
 header .nav .caret {
